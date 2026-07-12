@@ -33,6 +33,7 @@ A desktop-based biometric attendance system built using Python, OpenCV, SQLite, 
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Images
 
