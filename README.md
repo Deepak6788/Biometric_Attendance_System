@@ -33,3 +33,17 @@ A desktop-based biometric attendance system built using Python, OpenCV, SQLite, 
 
 ```bash
 pip install -r requirements.txt
+
+## Screenshots
+
+### Main Dashboard
+![Main Dashboard](screenshots/dashboard.png)
+
+### Face Registration
+![Face Registration](screenshots/registration.png)
+
+### Face Recognition and Attendance
+![Attendance Recognition](screenshots/attendance.png)
+
+### Attendance Records
+![Attendance Records](screenshots/records.png)
