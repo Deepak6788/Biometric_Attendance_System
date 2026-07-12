@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Biometric face data
+data/faces/
+
+# Database with user and attendance data
+attendance.db
+
+# Trained face model
+trainer/
+
+# Exported attendance files
+attendance/
+*.csv
+
+# VS Code settings
+.vscode/
