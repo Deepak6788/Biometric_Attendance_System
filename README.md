@@ -37,13 +37,13 @@ pip install -r requirements.txt
 ## Images
 
 ### Main Dashboard
-![Main Dashboard](Images/Gui.png)
+![Main Dashboard](Images/GUI%20image.jpeg)
 
 ### Registration
-![Face Registration](Images/registration.png)
+![Face Registration](Images/Registration.jpeg)
 
-### Registered users
-![Attendance Recognition](Images/Registered users.png)
+### Registered Users
+![Registered Users](Images/Registered%20users.jpeg)
 
 ### Attendance Records
-![Attendance Records](Images/Attendance.png)
+![Attendance Records](Images/Attendance%20records.jpeg)
